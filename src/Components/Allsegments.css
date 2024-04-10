@@ -1,0 +1,22 @@
+.segment-list {
+  position: relative;
+  width: 60%;
+  margin: auto;
+}
+
+.alltemps-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.alltemp-btn {
+  background-color: rgb(238, 85, 102);
+}
+.pagination {
+  display: flex;
+}
+.allsegments-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

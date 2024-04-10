@@ -1,0 +1,8 @@
+.template-create-form{
+    width: 50%;
+}
+.Newsegment{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

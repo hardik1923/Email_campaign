@@ -1,0 +1,55 @@
+.singlecampaign{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.singlecampaign-row{
+    color: antiquewhite;
+    margin: 4px;
+    padding: 20px;
+    width: 60%;
+    background-color: rgb(238, 85, 102);
+    border: 1 px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.kpis{
+    justify-content: space-between;
+    display: flex;
+}
+.kpi-box {
+    width: auto; /* Adjust height as needed */
+    background-color: #f0f0f0; /* Background color of the box */
+    border: 1px solid #ccc; /* Border color and thickness */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px; /* Padding inside the box */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 4px; /* Box shadow for depth effect */
+  }
+  
+  .kpi-title {
+    color: black;
+    font-size: 16px; /* Title font size */
+    font-weight: bold; /* Title font weight */
+    margin-bottom: 10px; /* Bottom margin for spacing */
+  }
+  
+  .kpi-value {
+    font-size: 24px; /* Value font size */
+    font-weight: bold; /* Value font weight */
+    color: #007bff; /* Color of the value */
+  }
+  
+  .kpi-description {
+    font-size: 14px; /* Description font size */
+    color: #666; /* Color of the description */
+  }
+  .Line-charts{
+    height: 40vh;
+    width: 40vw;
+  }

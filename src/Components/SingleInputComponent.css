@@ -1,0 +1,16 @@
+.campaign-name-cointainer{
+  position: relative;
+  height: 50%;
+  width: 50%;
+  padding: auto;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.bordered-component{
+  display: flex;
+  flex-direction: column;
+}
+label{
+  padding: 5px;
+}

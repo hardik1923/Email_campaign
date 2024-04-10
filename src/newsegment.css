@@ -1,0 +1,7 @@
+.seg-name-input{
+    padding: 20px;
+    font-size: 16px;
+    border: none; /* Remove input border */
+    outline: none;
+    width: 200px; 
+}
